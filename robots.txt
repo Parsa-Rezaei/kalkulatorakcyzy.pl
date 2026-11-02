@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Po podpięciu domeny usuń znak # i wpisz swój adres:
-# Sitemap: https://TWOJA-DOMENA.pl/sitemap.xml
+# Sitemap: https://kalkulatorakcyzy.pl/sitemap.xml
