@@ -25,8 +25,8 @@ const CONFIG = {
     phone: '', // np. '+48 600 000 000' – pokaże przycisk „Zadzwoń”
   },
   owner: {
-    name: '[uzupełnij: imię i nazwisko lub nazwa firmy, adres]',
-    email: '[uzupełnij: adres e-mail]',
+    name: 'Mohammad Parsa Rezaei, ul. Politechniki 3B, pok. 717, 93-590 Łódź',
+    email: 'parsa.rezaei.2014@gmail.com',
   },
 };
 
